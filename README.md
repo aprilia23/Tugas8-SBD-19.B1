@@ -10,6 +10,8 @@ Koneksi dengan PHP<p>
 ![image](https://user-images.githubusercontent.com/54062259/122354009-c7348600-cf7a-11eb-920c-6facec313825.png)
 
 Tampilkan data tabelnya<p>
+![image](https://user-images.githubusercontent.com/54062259/122354408-2befe080-cf7b-11eb-9bfb-cbc5347106d9.png)
+
 ![image](https://user-images.githubusercontent.com/54062259/122354047-d4ea0b80-cf7a-11eb-8c77-eb436ccc3d27.png)
 
 ![image](https://user-images.githubusercontent.com/54062259/122354070-d9aebf80-cf7a-11eb-822f-9d2b8a983cd2.png)
