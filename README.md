@@ -7,7 +7,7 @@ Contoh Design Table Database 3 Table<p>
 ![image](https://user-images.githubusercontent.com/54062259/125185017-5c5e2e00-e24c-11eb-980e-52d57aab3470.png)
   
 Koneksi dengan PHP<p>
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/54062259/125185392-c7a8ff80-e24e-11eb-90be-7ec328f38054.png)
   
 Tampilkan data tabelnya<p>
 ![image](https://user-images.githubusercontent.com/54062259/125185116-f6be7180-e24c-11eb-8bbb-55ee1e1d54e9.png)
